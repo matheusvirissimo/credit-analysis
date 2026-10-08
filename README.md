@@ -29,3 +29,6 @@ Depois disso, você tem que iniciar seu ambiente virtual, logo, faça o seguinte
 
 3. Ao iniciar o projeto, você vai ver que tem um arquivo chamado **requirements.txt**. Ele ter as bibliotecas que estou usando, então baixa usando `pip install -r requirements.txt`
 4. Se baixar uma biblioteca nova, só rodar `pip freeze > requirements.txt`
+
+## Autores 
+Leo e mav
